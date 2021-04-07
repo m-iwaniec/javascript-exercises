@@ -15,8 +15,7 @@ Sample Output :
 "0 is even"
 "1 is odd"
 "2 is even"
-----------
-----------
+and so on
 
 6. Write a JavaScript program which compute, the average marks of the following students Then, this average is used to determine the corresponding grade.
 Student Name Marks
