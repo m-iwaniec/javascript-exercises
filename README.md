@@ -1,4 +1,4 @@
-# javascript-exercises
+# javascript-exercises-ug
 
 1. Write a JavaScript program that accept two integers and display the larger.
 
